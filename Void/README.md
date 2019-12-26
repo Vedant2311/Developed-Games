@@ -1,1 +1,1 @@
-c
+This game was developed by the **Game Development Club IITD** for the **Game Development World Championship (GDWC) 2018**. This Android game was based on the idea of a Temple-Run types infinite runner platform. 
