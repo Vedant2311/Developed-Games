@@ -1,1 +1,1 @@
-This game was developed for the **iGEM IITD 2018** team
+This game was developed for the **iGEM IITD 2018** team as a part of the Human Practices component. This was designed for the people to get to know about **Recombinase**, which was the basic building block for our project, and it's uses through a fun interactive game. The Game was designed in Unity Engine. 
