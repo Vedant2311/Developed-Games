@@ -1,0 +1,3 @@
+This game was developed by the **Game Development Club IITD** during a one-day hackathon at Noida, India. 
+The theme of this game is a Zombie-based apocalypse, where a Zombie army is trying to capture the source of all of Earth's Energy, and the player is trying to prevent this by fighting those Zombies.
+This game was built for PC using Unity. 
