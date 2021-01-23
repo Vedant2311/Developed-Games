@@ -1,4 +1,5 @@
 // Some of the MCQ Questions that would be asked in the game.
+// Note that as this game was designed to be played by the studetns of IIT-Delhi, we kept some of our questions to be targeted at the issues faced by them.
 
 Vedant:
 1) You are driving fast to the hospital since you got a call that your mom met with an accident and is unconsious now. 
