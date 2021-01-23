@@ -1,1 +1,2 @@
+# Phagistic
 This game was developed for the [**iGEM IITD 2018**](http://2018.igem.org/Team:IIT_Delhi) team as a part of the [Human Practices](http://2018.igem.org/Team:IIT_Delhi/Human_Practices) component. This was designed for the people to get to know about **Recombinase**, which was the basic building block for our project, and it's uses through a fun interactive game. This is an Android game built using Unity
